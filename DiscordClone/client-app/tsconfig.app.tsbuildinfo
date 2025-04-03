@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/app/layout/app.tsx","./src/app/layout/homepage.tsx","./src/app/layout/navbar.tsx","./src/app/layout/sidebar.tsx","./src/app/router/routes.tsx","./src/app/stores/store.ts","./src/app/stores/userstore.ts","./src/features/user/logindashboard.tsx"],"errors":true,"version":"5.6.3"}
